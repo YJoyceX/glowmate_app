@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "897320725721",
+    "firebase_url": "https://glowmate-e8b84-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "glowmate-e8b84",
+    "storage_bucket": "glowmate-e8b84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897320725721:android:592e43883da2062c6c22c8",
+        "android_client_info": {
+          "package_name": "com.example.glowmate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2PjuLt4NJmlsIdPRb4G-G7Oe6RmOzk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
