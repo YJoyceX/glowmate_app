@@ -57,8 +57,8 @@ class _SkinAnalysisState extends State<SkinAnalysis> {
     try {
       // Update profile in Supabase
       await supabase.from('profiles').update({
-        'skinType': _selectedSkinType,
-        'skinConcerns': _selectedConcerns,
+        'skintype': _selectedSkinType,
+        'skinconcerns': _selectedConcerns,
       }).eq('id', user.id);
       
       if (mounted) {
